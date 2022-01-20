@@ -1,0 +1,19 @@
+{
+  "productos": [
+    {
+      "nombre": "Loro",
+      "precio": 13,
+      "id": 1
+    },
+    {
+      "nombre": "Lorito",
+      "precio": 35,
+      "id": 2
+    },
+    {
+      "nombre": "sdfasdfasdf",
+      "precio": 7,
+      "id": 3
+    }
+  ]
+}
